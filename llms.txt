@@ -1,0 +1,10 @@
+# Adsun SDK Debug Playground
+
+> Load the canonical SDK and inspect debug advertising outcomes.
+
+## Canonical sources
+- [README](https://github.com/Adsuner/adsun-sdk-debug-playground/blob/main/README.md): setup, scope and limitations.
+- [Official Adsun documentation](https://adsun.io/documentation/publisher/api-reference): upstream API/workflow reference.
+
+## Boundaries
+Independent teaching example, not proprietary SDK source. No credentials or environment files. Browser SDK is loaded only from https://api.adsun.io/sdk.js. No guarantee of search or AI indexing.
